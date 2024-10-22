@@ -25,5 +25,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kirrishima&theme=cobalt&hide_border=false)<br/> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirrishima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=1-sem-labs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirrishima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact/>
 </div>
