@@ -11,8 +11,8 @@
 
 
 <div align="center" height="400px">
-     <img src="https://github-readme-stats.vercel.app/api?username=kirrishima&hide=issues&hide_border=true&theme=tokyonight&show_icons=true" height="180px"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirrishima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=1-sem-labs" height="180px"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=kirrishima&hide=issues&hide_border=true&theme=tokyonight&show_icons=true&bg_color=00000000" height="180px"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirrishima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=1-sem-labs&bg_color=00000000" height="180px"/>
 </div>
 
 <br>
