@@ -10,7 +10,7 @@
 <!--# 📊 GitHub Stats:-->
 
 
-<div align="center" height="400px">
+<div align="center" >
      <img src="https://github-readme-stats-pf5j.vercel.app/api?username=kirrishima&hide=issues&hide_border=true&theme=tokyonight&show_icons=true&bg_color=00000000" height="180px"/>
      <img src="https://github-readme-stats-pf5j.vercel.app/api/top-langs/?username=kirrishima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=1-sem-labs&bg_color=00000000" height="180px"/>
 </div>
