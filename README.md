@@ -14,8 +14,8 @@
 <!--      <img src="https://github-readme-stats-pf5j.vercel.app/api?username=kirrishima&hide=issues&hide_border=true&theme=tokyonight&show_icons=true&bg_color=00000000" height="180px"/> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pf5j.vercel.app/api?username=kirrishima&hide=issues&hide_border=true&theme=tokyonight&show_icons=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-pf5j.vercel.app/api?username=kirrishima&hide=issues&hide_border=true&theme=tokyonight&show_icons=true">
-  <img src="https://github-readme-stats-pf5j.vercel.app/api?username=kirrishima&hide=issues&hide_border=true&theme=tokyonight&show_icons=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 <picture>
