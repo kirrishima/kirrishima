@@ -42,3 +42,5 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" alt="CSS3" title="CSS3"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="40" height="40" alt="Sass" title="Sass"/>&nbsp;
 </div>
+
+![](https://komarev.com/ghpvc/?username=kirrishima&style=pixel)
